@@ -1,0 +1,1 @@
+- Fixed: /sw.js load error [(referenece)](https://github.com/vitejs/vite/issues/1427#issuecomment-757364779)
